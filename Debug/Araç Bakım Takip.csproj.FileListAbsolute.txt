@@ -1,0 +1,14 @@
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\bin\Debug\Araç Bakım Takip.exe.config
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\bin\Debug\Araç Bakım Takip.exe
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\bin\Debug\Araç Bakım Takip.pdb
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç Bakım Takip.csproj.AssemblyReference.cache
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç_Bakım_Takip.Form1.resources
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç_Bakım_Takip.Properties.Resources.resources
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç Bakım Takip.csproj.GenerateResource.cache
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç Bakım Takip.csproj.CoreCompileInputs.cache
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç Bakım Takip.exe
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç Bakım Takip.pdb
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç Bakım Takip.exe.config
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç_Bakım_Takip.araclar_sayfasi.resources
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç_Bakım_Takip.Ayarlar.resources
+C:\Users\savas\source\repos\Araç Bakım Takip\Araç Bakım Takip\obj\Debug\Araç_Bakım_Takip.yag_bilgileri.resources
